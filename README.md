@@ -19,9 +19,9 @@
 ## 📸 Скриншоты / Screenshots
 
 <p align="center">
-  <img src="Screenshots/1.png" alt="Moku на рабочем столе" width="90%">
-  <img src="Screenshots/2.png" alt="Раскрытая панель Moku" width="90%">
-  <img src="Screenshots/3.png" alt="Moku, новый скриншот" width="90%">
+  <img src="Screenshots/1.png" alt="Moku на рабочем столе" width="70%">
+  <img src="Screenshots/2.png" alt="Раскрытая панель Moku" width="70%">
+  <img src="Screenshots/3.png" alt="Moku, новый скриншот" width="70%">
 </p>
 
 
