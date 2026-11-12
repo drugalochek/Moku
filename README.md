@@ -1,6 +1,12 @@
 # 🏝️ Moku
 
 <p align="center">
+  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD_MOKU_2.0.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Download Moku 2.0.0 for Windows x64">
+  </a>
+</p>
+
+<p align="center">
   <strong><a href="#русский">🇷🇺 Русский</a> · <a href="#english">🇬🇧 English</a></strong><br>
   Интерактивный остров для рабочего стола Windows · Interactive island for the Windows desktop
 </p>
@@ -143,15 +149,3 @@ Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored
 Run the installer and follow the setup wizard. Other versions and release notes are available on the [Releases](https://github.com/drugalochek/Moku/releases) page.
 
 > The installer is intended for Windows x64. An internet connection is required for weather updates.
-
----
-
-## ⬇️ Download Moku 2.0.0
-
-<p align="center">
-  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe">
-    <img src="https://img.shields.io/badge/DOWNLOAD_MOKU_2.0.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Download Moku 2.0.0 for Windows x64">
-  </a>
-</p>
-
-[Open all releases](https://github.com/drugalochek/Moku/releases)
