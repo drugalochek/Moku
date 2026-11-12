@@ -16,6 +16,14 @@
 </p>
 
 
+## 📸 Скриншоты / Screenshots
+
+<p align="center">
+  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.14.32.71.png" alt="Moku на рабочем столе" width="48%">
+  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.16.19.07.png" alt="Раскрытая панель Moku" width="48%">
+</p>
+
+
 ---
 
 <a id="ru"></a>
