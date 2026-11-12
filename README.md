@@ -13,8 +13,9 @@
 ## Скриншоты / Screenshots
 
 <p align="center">
-  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.14.32.71.png" alt="Moku на рабочем столе" width="49%">
-  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.16.19.07.png" alt="Moku в раскрытом виде" width="49%">
+  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.14.32.71.png" alt="Moku на рабочем столе" width="32%">
+  <img src="Screenshots/Desktop%20Screenshot%202026.11.12%20-%2017.16.19.07.png" alt="Moku в раскрытом виде" width="32%">
+  <img src="Screenshots/Desktop%20Screenshot%202026.11.13%20-%2001.08.21.59.png" alt="Moku, новый скриншот" width="32%">
 </p>
 
 <a id="ru"></a>
