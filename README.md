@@ -78,27 +78,9 @@
 - Windows Media Session API
 - Open-Meteo Weather API
 
-### 🛠️ Сборка из исходников
+### 📦 Установка
 
-Понадобится **.NET 8 SDK** и Windows.
-
-```powershell
-cd Island
-dotnet run -c Release
-```
-
-Чтобы собрать автономное приложение:
-
-```powershell
-dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o publish
-```
-
-Для сборки установщика, если в репозитории присутствует соответствующий проект и скрипт:
-
-```powershell
-cd Island
-build-release.bat
-```
+Скачай установщик **Moku Setup** со страницы [Releases](https://github.com/drugalochek/Moku/releases), запусти его и следуй инструкциям мастера установки.
 
 ### 📦 Загрузки
 
@@ -163,20 +145,9 @@ Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored
 - Windows Media Session API
 - Open-Meteo Weather API
 
-### 🛠️ Build from source
+### 📦 Installation
 
-Install the **.NET 8 SDK** on Windows, then run:
-
-```powershell
-cd Island
-dotnet run -c Release
-```
-
-For a self-contained Windows x64 publish:
-
-```powershell
-dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o publish
-```
+Download the **Moku Setup** installer from the [Releases](https://github.com/drugalochek/Moku/releases) page, run it, and follow the setup wizard.
 
 ### 📦 Downloads
 
