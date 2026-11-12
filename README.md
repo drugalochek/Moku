@@ -80,17 +80,13 @@
 
 ### 📦 Установка
 
-Скачай установщик **Moku Setup** со страницы [Releases](https://github.com/drugalochek/Moku/releases), запусти его и следуй инструкциям мастера установки.
+Скачай установщик **Moku 2.0.0 для Windows x64**:
 
-### 📦 Загрузки
+➡️ **[Скачать Moku Setup 2.0.0 (EXE)](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe)**
 
-Готовые сборки будут публиковаться во вкладке **Releases**. Сейчас релизный файл ещё не прикреплён.
+Запусти файл и следуй инструкциям мастера установки. Другие версии и информация об обновлениях доступны на странице [Releases](https://github.com/drugalochek/Moku/releases).
 
-➡️ **[Открыть релизы Moku](https://github.com/drugalochek/Moku/releases)**
-
-### 📋 Статус проекта
-
-README описывает функции текущей версии приложения из основного репозитория проекта. Сам репозиторий **Moku** пока подготавливается: исходный код и готовые сборки будут добавлены отдельно.
+> Установщик предназначен для Windows x64. Для получения погоды требуется подключение к интернету.
 
 ---
 
@@ -147,16 +143,11 @@ Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored
 
 ### 📦 Installation
 
-Download the **Moku Setup** installer from the [Releases](https://github.com/drugalochek/Moku/releases) page, run it, and follow the setup wizard.
+Download **Moku 2.0.0 for Windows x64**:
 
-### 📦 Downloads
+➡️ **[Download Moku Setup 2.0.0 (EXE)](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe)**
 
-Windows builds will be published on the **Releases** page. No release asset is attached yet.
+Run the installer and follow the setup wizard. Other versions and release notes are available on the [Releases](https://github.com/drugalochek/Moku/releases) page.
 
-➡️ **[View Moku releases](https://github.com/drugalochek/Moku/releases)**
+> The installer is intended for Windows x64. An internet connection is required for weather updates.
 
----
-
-## 📄 License
-
-See the [LICENSE](LICENSE) file for licensing terms. Third-party components remain subject to their respective licenses.
