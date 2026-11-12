@@ -1,19 +1,14 @@
 # 🏝️ Moku
 
 <p align="center">
-  <strong>🇷🇺 Русский · 🇬🇧 English</strong><br>
-  Интерактивный остров для рабочего стола Windows
+  <strong><a href="#русский">🇷🇺 Русский</a> · <a href="#english">🇬🇧 English</a></strong><br>
+  Интерактивный остров для рабочего стола Windows · Interactive island for the Windows desktop
 </p>
 
 <p align="center">
   <em>Время, погода, музыка и маленькие живые детали прямо на рабочем столе.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe">
-    <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.0.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.0.0 для Windows x64">
-  </a>
-</p>
 
 ---
 
@@ -86,11 +81,7 @@
 
 ### 📦 Установка
 
-Нажми на большую кнопку **«Скачать Moku»** в верхней части страницы или используй ссылку ниже:
-
-➡️ **[Скачать Moku Setup 2.0.0 (EXE)](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe)**
-
-Запусти файл и следуй инструкциям мастера установки. Другие версии и информация об обновлениях доступны на странице [Releases](https://github.com/drugalochek/Moku/releases).
+Запусти установщик и следуй инструкциям мастера установки. Другие версии и информация об обновлениях доступны на странице [Releases](https://github.com/drugalochek/Moku/releases).
 
 > Установщик предназначен для Windows x64. Для получения погоды требуется подключение к интернету.
 
@@ -149,11 +140,18 @@ Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored
 
 ### 📦 Installation
 
-Use the prominent **Download Moku** button at the top of this page, or use the direct link below:
-
-➡️ **[Download Moku Setup 2.0.0 (EXE)](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe)**
-
 Run the installer and follow the setup wizard. Other versions and release notes are available on the [Releases](https://github.com/drugalochek/Moku/releases) page.
 
 > The installer is intended for Windows x64. An internet connection is required for weather updates.
 
+---
+
+## ⬇️ Download Moku 2.0.0
+
+<p align="center">
+  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD_MOKU_2.0.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Download Moku 2.0.0 for Windows x64">
+  </a>
+</p>
+
+[Open all releases](https://github.com/drugalochek/Moku/releases)
