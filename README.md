@@ -1,18 +1,18 @@
 # 🏝️ Moku
 
 <p align="center">
-  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ_MOKU_2.0.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.0.0 для Windows x64">
+  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ_MOKU_2.6.13-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.6.13 для Windows x64">
   </a>
 </p>
 
 <p align="center">
   <strong><a href="#ru">🇷🇺 Русский</a>　│　<a href="#en">🇬🇧 English</a></strong><br>
-  Интерактивный остров для рабочего стола Windows · Interactive island for the Windows desktop
+  Интерактивный остров для Windows: время, погода, музыка, анимации и инструменты для скриншотов · An interactive Windows desktop island
 </p>
 
 <p align="center">
-  <em>Время, погода, музыка и маленькие живые детали прямо на рабочем столе.</em>
+  <em>Время, погода, управление музыкой, живые анимации и скриншоты с разметкой в одном компактном приложении.</em>
 </p>
 
 
@@ -30,7 +30,7 @@
 
 ## 🇷🇺 Русский
 
-**Moku** — небольшое desktop-приложение для Windows, которое превращает верхнюю часть рабочего стола в интерактивный остров. В свёрнутом состоянии он остаётся компактным, а при открытии показывает дополнительные элементы управления и полезную информацию.
+**Moku 2.6.13** — интерактивный остров для Windows 10 и Windows 11. Он объединяет часы, погоду, системную информацию о воспроизведении музыки и инструменты для создания и разметки скриншотов. В компактном режиме Moku занимает минимум места, а при раскрытии предоставляет дополнительные сведения и элементы управления.
 
 ### ✨ Возможности
 
@@ -97,8 +97,8 @@
 
 ### 📦 Установка
 
-1. Нажми [**Скачать Moku 2.0.0 для Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe).
-2. Запусти `Moku-Setup-2.0.0-x64.exe` и следуй инструкциям мастера установки.
+1. Нажми [**Скачать Moku 2.6.13 для Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe).
+2. Запусти `Moku-Setup-2.6.13-x64.exe` и следуй инструкциям мастера установки.
 3. Если нужна другая версия, открой [**все релизы Moku**](https://github.com/drugalochek/Moku/releases).
 
 > Установщик предназначен для Windows x64. Для получения погоды требуется подключение к интернету.
@@ -111,7 +111,7 @@
 
 ## 🇬🇧 English
 
-**Moku** is a lightweight Windows desktop app that adds an interactive island to your desktop. It stays compact when collapsed and reveals extra information and controls when expanded.
+**Moku 2.6.13** is an interactive desktop island for Windows 10 and Windows 11. It brings together a clock, weather, system media information, and screenshot capture and annotation tools. Moku stays compact when collapsed and reveals additional information and controls when expanded.
 
 ### ✨ Features
 
@@ -162,8 +162,8 @@ Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored
 
 ### 📦 Installation
 
-1. Click [**Download Moku 2.0.0 for Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.0.0-x64.exe).
-2. Run `Moku-Setup-2.0.0-x64.exe` and follow the setup wizard.
+1. Click [**Download Moku 2.6.13 for Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe).
+2. Run `Moku-Setup-2.6.13-x64.exe` and follow the setup wizard.
 3. For other versions, visit [**all Moku releases**](https://github.com/drugalochek/Moku/releases).
 
 > The installer is intended for Windows x64. An internet connection is required for weather updates.
