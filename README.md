@@ -14,7 +14,6 @@
 
 <br><br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe"><img src="https://img.shields.io/badge/Download-Moku_2.11.0_(x64)-111827?style=flat-square&logo=github&logoColor=white" alt="Download Moku 2.11.0"></a>
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
 <img src="https://img.shields.io/badge/версия-2.11.0-22C55E?style=flat-square" alt="Version 2.11.0">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
@@ -28,11 +27,36 @@
 
 <br>
 
+## 📸 Скриншоты · Screenshots
+
 <p align="center">
-  <img src="Screenshots/1.png" alt="Moku на рабочем столе" width="32%">
-  <img src="Screenshots/2.png" alt="Раскрытая панель Moku" width="32%">
-  <img src="Screenshots/3.png" alt="Moku в работе" width="32%">
+  <img src="Screenshots/Moku-screenshot-3.png" alt="Раскрытый остров Moku — главная вкладка" width="100%">
+  <br>
+  <sub><b>Главная</b> — музыка, недавно скопированное и быстрые инструменты · <i>Home tab</i></sub>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-1.png" alt="Moku во время музыки">
+      <br><sub>🎵 <b>Музыка</b> — обложка, управление и живая волна · <i>Now playing</i></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-2.png" alt="Свёрнутый Moku с часами и погодой">
+      <br><sub>🕒 <b>Свёрнутый вид</b> — глазки, время и погода · <i>Collapsed</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-4.png" alt="Настройки Moku по разделам">
+      <br><sub>⚙️ <b>Настройки</b> — 8 разделов и поиск · <i>Settings</i></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-5.png" alt="Вкладка приложений Moku">
+      <br><sub>🚀 <b>Приложения</b> — игры Steam и любимые программы · <i>Apps</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
