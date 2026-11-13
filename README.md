@@ -1,29 +1,38 @@
+<div align="center">
+
 # 🏝️ Moku
 
-<p align="center">
-  <a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ_MOKU_2.6.13-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.6.13 для Windows x64">
-  </a>
-</p>
+### Живой «Dynamic Island» для Windows · A living Dynamic Island for Windows
 
-<p align="center">
-  <strong><a href="#ru">🇷🇺 Русский</a>　│　<a href="#en">🇬🇧 English</a></strong><br>
-  Интерактивный остров для Windows: время, погода, музыка, анимации и инструменты для скриншотов · An interactive Windows desktop island
-</p>
+Остров с глазками, который живёт вверху экрана: время, погода, музыка с обложками, скриншоты, буфер обмена и быстрый запуск приложений.
 
-<p align="center">
-  <em>Время, погода, управление музыкой, живые анимации и скриншоты с разметкой в одном компактном приложении.</em>
-</p>
+<br>
 
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.11.0-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.11.0 для Windows x64" height="44">
+</a>
 
-## 📸 Скриншоты / Screenshots
+<br><br>
+
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe"><img src="https://img.shields.io/badge/Download-Moku_2.11.0_(x64)-111827?style=flat-square&logo=github&logoColor=white" alt="Download Moku 2.11.0"></a>
+<a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
+<img src="https://img.shields.io/badge/версия-2.11.0-22C55E?style=flat-square" alt="Version 2.11.0">
+<img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
+<img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
+
+<br><br>
+
+**[🇷🇺 Русский](#ru)** &nbsp;│&nbsp; **[🇬🇧 English](#en)**
+
+</div>
+
+<br>
 
 <p align="center">
   <img src="Screenshots/1.png" alt="Moku на рабочем столе" width="32%">
   <img src="Screenshots/2.png" alt="Раскрытая панель Moku" width="32%">
-  <img src="Screenshots/3.png" alt="Moku, новый скриншот" width="32%">
+  <img src="Screenshots/3.png" alt="Moku в работе" width="32%">
 </p>
-
 
 ---
 
@@ -31,80 +40,84 @@
 
 ## 🇷🇺 Русский
 
-**Moku 2.6.13** — интерактивный остров для Windows 10 и Windows 11. Он объединяет часы, погоду, системную информацию о воспроизведении музыки и инструменты для создания и разметки скриншотов. В компактном режиме Moku занимает минимум места, а при раскрытии предоставляет дополнительные сведения и элементы управления.
+**Moku** — компактный интерактивный остров для Windows 10 и 11. В свёрнутом виде это маленькая «пилюля» с живыми глазками и нужной информацией, а по клику он мягко раскрывается в панель с музыкой, погодой, инструментами и настройками.
+
+### 🆕 Что нового в 2.11.0
+
+> - 🗂️ **Настройки по разделам** — вместо длинного списка 8 карточек: «Цвета и тема», «Положение и размер», «Глаза», «Анимации», «Свёрнутый вид», «Музыка и уведомления», «Приложения», «Общие».
+> - 🔎 **Поиск по настройкам** — пишешь «Найти настройку…», Moku открывает нужный раздел и подсвечивает пункт.
+> - ♻️ **Сброс отдельного раздела** — сбрасывается только выбранный раздел, остальное остаётся как было.
+> - 🎨 Окна выбора цвета больше не сворачивают остров, пока открыты.
 
 ### ✨ Возможности
 
-| Функция | Что умеет |
+| | |
 |---|---|
-| 🕒 **Время** | Показывает текущее время прямо на острове. |
-| 🌦️ **Погода** | Отображает погодный значок и температуру. Данные получает через Open-Meteo, обновляет примерно раз в 15 минут и сохраняет последнее успешное значение в кэш. |
-| 🎵 **Медиа** | Следит за системной медиасессией Windows и показывает информацию о воспроизводимом контенте. |
-| 🫧 **Жидкий остров** | Во время воспроизведения музыки нижний край острова превращается в анимированную волну цвета акцента. |
-| 👀 **Живые глазки** | Следят за курсором, моргают, покачиваются под музыку и могут засыпать, если долго ничего не происходит. |
-| 📸 **Скриншоты** | Позволяет выделить область экрана или сделать снимок всего экрана. |
-| ✏️ **Разметка снимков** | После выделения области доступны перо, стрелка, рамка, маркер, выбор цвета и толщины. |
-| 🎨 **Настройки внешнего вида** | Можно выбрать положение острова, вертикальный отступ, размер и цвет акцента. |
-| 🌐 **Два языка** | Интерфейс поддерживает English и Русский. |
-| 🖥️ **Системный трей** | Приложение может оставаться в фоне после закрытия окна. |
-
-### 🎮 Управление
-
-- **Клик по острову** или **Alt + Space** — раскрыть или свернуть остров.
-- **Esc** или клик за пределами острова — свернуть его.
-- **Двойной клик по значку в трее** — открыть Moku.
-- **Правый клик по значку в трее** — открыть меню с действиями приложения.
-- В настройках можно выбрать расположение: слева, по центру или справа, а также настроить отступ сверху.
-
-### 📸 Инструмент скриншотов
-
-1. Выбери плитку **«Область»** и выдели нужную часть экрана.
-2. На панели разметки выбери инструмент: перо, стрелку, рамку или маркер.
-3. Настрой цвет и толщину линий.
-4. Используй горячие клавиши:
-   - `Enter` или `Ctrl + C` — скопировать результат;
-   - `Ctrl + S` — сохранить PNG;
-   - `Ctrl + Z` — отменить последнее действие;
-   - `Esc` — закрыть редактор.
-5. Плитка **«Экран»** делает снимок всего экрана и отправляет его в буфер обмена.
-
-### ⚙️ Настройки и данные
-
-Настройки приложения хранятся в:
-
-```text
-%APPDATA%\\Moku\\settings.json
-```
-
-Кэш погоды:
-
-```text
-%APPDATA%\\Moku\\weather-cache.json
-```
-
-Лог приложения:
-
-```text
-%APPDATA%\\Moku\\moku.log
-```
-
-### 🧩 Технологии
-
-- Windows Desktop
-- C# / .NET 8
-- WPF
-- Windows Media Session API
-- Open-Meteo Weather API
+| 👀 **Живые глазки**<br>Следят за курсором, моргают, засыпают ночью, радуются, скучают и зевают. Если «погладить» их курсором — блаженно жмурятся с румянцем. | 🎵 **Музыка**<br>Название трека, обложка альбома, управление плеером. Moku определяет темп (BPM), и глазки танцуют в такт. |
+| 🫧 **Жидкий остров**<br>Пока играет музыка, нижний край превращается в живую волну. Раскрытие — на «желейной» пружинной анимации. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение, частота моргания. |
+| 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. 12/24 ч, секунды, таймер и секундомер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут, кэш последнего значения. |
+| 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей, быстрые уведомления при копировании. |
+| 🚀 **Приложения и игры**<br>Плитки для быстрого запуска, настоящие иконки Steam-игр, папки, свои подписи и иконки, перестановка перетаскиванием. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
+| ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка и трей**<br>Русский и English. Moku работает в фоне и живёт в системном трее. |
 
 ### 📦 Установка
 
-1. Нажми [**Скачать Moku 2.6.13 для Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe).
-2. Запусти `Moku-Setup-2.6.13-x64.exe` и следуй инструкциям мастера установки.
-3. Если нужна другая версия, открой [**все релизы Moku**](https://github.com/drugalochek/Moku/releases).
+1. Нажми кнопку **[⬇ Скачать Moku 2.11.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe)** (файл `Moku-Setup-2.11.0-x64.exe`, ~138 МБ).
+2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
+3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
 
-> Установщик предназначен для Windows x64. Для получения погоды требуется подключение к интернету.
+> [!NOTE]
+> Установщик не подписан цифровой подписью, поэтому Windows SmartScreen может показать предупреждение. Нажми **«Подробнее» → «Выполнить в любом случае»**.
+> Для погоды нужен интернет. Нужна 64-битная Windows 10 или 11.
 
-<p align="right"><a href="#en">Перейти к English ↓</a></p>
+### 🎮 Управление
+
+| Действие | Как |
+|---|---|
+| Раскрыть / свернуть остров | Клик по острову или **Ctrl + Alt + Space** (сочетание меняется в настройках) |
+| Свернуть | **Esc** или клик мимо острова |
+| Открыть из трея | Двойной клик по значку Moku |
+| Меню приложения | Правый клик по значку в трее |
+
+<details>
+<summary><b>📸 Горячие клавиши редактора скриншотов</b></summary>
+
+<br>
+
+| Клавиши | Действие |
+|---|---|
+| `Enter` / `Ctrl + C` | Скопировать в буфер обмена |
+| `Ctrl + S` | Сохранить PNG |
+| `Ctrl + Z` | Отменить последнее действие |
+| `Esc` | Закрыть редактор |
+
+Плитка **«Область»** — выделить часть экрана и разметить её. Плитка **«Экран»** — снимок всего экрана сразу в буфер обмена.
+
+</details>
+
+<details>
+<summary><b>⚙️ Где хранятся настройки и данные</b></summary>
+
+<br>
+
+| Что | Путь |
+|---|---|
+| Настройки | `%APPDATA%\Moku\settings.json` |
+| Кэш погоды | `%APPDATA%\Moku\weather-cache.json` |
+| Лог | `%APPDATA%\Moku\moku.log` |
+
+</details>
+
+<details>
+<summary><b>🧩 Технологии</b></summary>
+
+<br>
+
+C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather API
+
+</details>
+
+<p align="right"><a href="#en">English ↓</a></p>
 
 ---
 
@@ -112,61 +125,93 @@
 
 ## 🇬🇧 English
 
-**Moku 2.6.13** is an interactive desktop island for Windows 10 and Windows 11. It brings together a clock, weather, system media information, and screenshot capture and annotation tools. Moku stays compact when collapsed and reveals additional information and controls when expanded.
+**Moku** is a compact interactive island for Windows 10 and 11. Collapsed, it is a small pill with living eyes and the info you need; click it and it smoothly expands into a panel with music, weather, tools and settings.
+
+### 🆕 What's new in 2.11.0
+
+> - 🗂️ **Settings by category** — 8 cards instead of one long list: Colors & theme, Position & size, Eyes, Animations, Collapsed view, Music & notifications, Apps, General.
+> - 🔎 **Settings search** — type in "Find a setting…" and Moku opens the right section and highlights the option.
+> - ♻️ **Per-section reset** — resets only the chosen section.
+> - 🎨 Color pickers no longer collapse the island while open.
 
 ### ✨ Features
 
-| Feature | Description |
+| | |
 |---|---|
-| 🕒 **Clock** | Displays the current time on the island. |
-| 🌦️ **Weather** | Shows a weather icon and temperature using Open-Meteo. Refreshes about every 15 minutes and keeps the last successful value cached. |
-| 🎵 **Media** | Tracks the active Windows media session and displays playback information. |
-| 🫧 **Liquid island** | While music is playing, the island's lower edge becomes an animated accent-coloured wave. |
-| 👀 **Animated eyes** | Follow the cursor, blink, move with music and can fall asleep after inactivity. |
-| 📸 **Screenshots** | Capture a selected screen area or the entire screen. |
-| ✏️ **Screenshot annotation** | Annotate captures with a pen, arrows, rectangles and a highlighter. Choose colours and line thickness. |
-| 🎨 **Appearance** | Configure island alignment, vertical offset, size and accent colour. |
-| 🌐 **Bilingual UI** | English and Russian interface languages. |
-| 🖥️ **System tray** | Moku can keep running in the background when its window is closed. |
-
-### 🎮 Controls
-
-- Click the island or press **Alt + Space** to expand or collapse it.
-- Press **Esc** or click outside the island to collapse it.
-- Double-click the tray icon to open Moku.
-- Right-click the tray icon to access the application menu.
-- Choose left, centre or right alignment and adjust the top offset in Settings.
-
-### 📸 Screenshot tools
-
-1. Select **Area** and drag to choose a screen region.
-2. Annotate it with the pen, arrow, rectangle or highlighter.
-3. Adjust the colour and line thickness.
-4. Keyboard shortcuts:
-   - `Enter` or `Ctrl + C` — copy;
-   - `Ctrl + S` — save as PNG;
-   - `Ctrl + Z` — undo;
-   - `Esc` — close the editor.
-5. **Screen** captures the entire screen and copies it to the clipboard.
-
-### ⚙️ Settings and local data
-
-Settings are stored in `%APPDATA%\\Moku\\settings.json`. Weather cache is stored in `%APPDATA%\\Moku\\weather-cache.json`, and application logs in `%APPDATA%\\Moku\\moku.log`.
-
-### 🧩 Built with
-
-- Windows Desktop
-- C# / .NET 8
-- WPF
-- Windows Media Session API
-- Open-Meteo Weather API
+| 👀 **Living eyes**<br>Follow the cursor, blink, fall asleep at night, get happy, bored and yawn. "Pet" them with the cursor and they blush. | 🎵 **Music**<br>Track title, album art and playback controls. Moku detects the tempo (BPM) and the eyes dance to the beat. |
+| 🫧 **Liquid island**<br>While music plays, the lower edge turns into a living wave. Expanding uses a jelly spring animation. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot, cat. Size, spacing, color, glow and blink rate. |
+| 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24 h, seconds, timer and stopwatch. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes, with cache. |
+| 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries, quick toasts on copy. |
+| 🚀 **Apps & games**<br>Quick-launch tiles, real Steam game icons, folders, custom names and icons, drag & drop reordering. | 🎮 **Game mode**<br>In fullscreen games the island smoothly turns transparent and click-through. |
+| ✨ **Appear styles**<br>Spring, Smooth or Drop, with separate expand and notification speeds. | 🌐 **Two languages & tray**<br>English and Russian. Moku runs in the background from the system tray. |
 
 ### 📦 Installation
 
-1. Click [**Download Moku 2.6.13 for Windows x64**](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.6.13-x64.exe).
-2. Run `Moku-Setup-2.6.13-x64.exe` and follow the setup wizard.
-3. For other versions, visit [**all Moku releases**](https://github.com/drugalochek/Moku/releases).
+1. Click **[⬇ Download Moku 2.11.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe)** (`Moku-Setup-2.11.0-x64.exe`, ~138 MB).
+2. Run the installer: License → Folder → Install → Done.
+3. Moku appears at the top of the screen. Click the island to expand it.
 
-> The installer is intended for Windows x64. An internet connection is required for weather updates.
+> [!NOTE]
+> The installer is not code-signed, so Windows SmartScreen may show a warning. Click **More info → Run anyway**.
+> Weather requires an internet connection. Requires 64-bit Windows 10 or 11.
 
-<p align="right"><a href="#ru">↑ Вернуться к русскому</a></p>
+### 🎮 Controls
+
+| Action | How |
+|---|---|
+| Expand / collapse | Click the island or press **Ctrl + Alt + Space** (configurable in Settings) |
+| Collapse | **Esc** or click outside the island |
+| Open from tray | Double-click the Moku tray icon |
+| App menu | Right-click the tray icon |
+
+<details>
+<summary><b>📸 Screenshot editor shortcuts</b></summary>
+
+<br>
+
+| Keys | Action |
+|---|---|
+| `Enter` / `Ctrl + C` | Copy to clipboard |
+| `Ctrl + S` | Save as PNG |
+| `Ctrl + Z` | Undo |
+| `Esc` | Close the editor |
+
+**Area** — select part of the screen and annotate it. **Screen** — capture the whole screen straight to the clipboard.
+
+</details>
+
+<details>
+<summary><b>⚙️ Settings and local data</b></summary>
+
+<br>
+
+| What | Path |
+|---|---|
+| Settings | `%APPDATA%\Moku\settings.json` |
+| Weather cache | `%APPDATA%\Moku\weather-cache.json` |
+| Log | `%APPDATA%\Moku\moku.log` |
+
+</details>
+
+<details>
+<summary><b>🧩 Built with</b></summary>
+
+<br>
+
+C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather API
+
+</details>
+
+<p align="right"><a href="#ru">↑ Русский</a></p>
+
+<div align="center">
+
+---
+
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.11.0-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.11.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.11.0">
+</a>
+
+<sub>Сделано с 💙 · Made with 💙</sub>
+
+</div>
