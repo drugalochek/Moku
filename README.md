@@ -27,37 +27,6 @@
 
 <br>
 
-## 📸 Скриншоты · Screenshots
-
-<p align="center">
-  <img src="Screenshots/Moku-screenshot-3.png" alt="Раскрытый остров Moku — главная вкладка" width="100%">
-  <br>
-  <sub><b>Главная</b> — музыка, недавно скопированное и быстрые инструменты · <i>Home tab</i></sub>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="Screenshots/Moku-screenshot-1.png" alt="Moku во время музыки">
-      <br><sub>🎵 <b>Музыка</b> — обложка, управление и живая волна · <i>Now playing</i></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="Screenshots/Moku-screenshot-2.png" alt="Свёрнутый Moku с часами и погодой">
-      <br><sub>🕒 <b>Свёрнутый вид</b> — глазки, время и погода · <i>Collapsed</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="Screenshots/Moku-screenshot-4.png" alt="Настройки Moku по разделам">
-      <br><sub>⚙️ <b>Настройки</b> — 8 разделов и поиск · <i>Settings</i></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="Screenshots/Moku-screenshot-5.png" alt="Вкладка приложений Moku">
-      <br><sub>🚀 <b>Приложения</b> — игры Steam и любимые программы · <i>Apps</i></sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <a id="ru"></a>
@@ -65,6 +34,37 @@
 ## 🇷🇺 Русский
 
 **Moku** — компактный интерактивный остров для Windows 10 и 11. В свёрнутом виде это маленькая «пилюля» с живыми глазками и нужной информацией, а по клику он мягко раскрывается в панель с музыкой, погодой, инструментами и настройками.
+
+### 📸 Скриншоты
+
+<p align="center">
+  <img src="Screenshots/Moku-screenshot-3.png" alt="Раскрытый остров Moku — главная вкладка" width="100%">
+  <br>
+  <sub>🏠 <b>Главная</b> — музыка, недавно скопированное и быстрые инструменты</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-1.png" alt="Moku во время воспроизведения музыки">
+      <br><sub>🎵 <b>Музыка</b> — обложка, управление и живая волна</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-2.png" alt="Свёрнутый Moku с часами и погодой">
+      <br><sub>🕒 <b>Свёрнутый вид</b> — глазки, время и погода</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-4.png" alt="Настройки Moku по разделам">
+      <br><sub>⚙️ <b>Настройки</b> — 8 разделов и поиск</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-5.png" alt="Вкладка приложений Moku">
+      <br><sub>🚀 <b>Приложения</b> — игры Steam и любимые программы</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🆕 Что нового в 2.11.0
 
@@ -150,6 +150,37 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 ## 🇬🇧 English
 
 **Moku** is a compact interactive island for Windows 10 and 11. Collapsed, it is a small pill with living eyes and the info you need; click it and it smoothly expands into a panel with music, weather, tools and settings.
+
+### 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/Moku-screenshot-3.png" alt="Expanded Moku island — Home tab" width="100%">
+  <br>
+  <sub>🏠 <b>Home</b> — music, recently copied items and quick tools</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-1.png" alt="Moku while music is playing">
+      <br><sub>🎵 <b>Now playing</b> — album art, controls and a living wave</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-2.png" alt="Collapsed Moku with clock and weather">
+      <br><sub>🕒 <b>Collapsed view</b> — eyes, time and weather</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-4.png" alt="Moku settings categories">
+      <br><sub>⚙️ <b>Settings</b> — 8 categories and search</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Screenshots/Moku-screenshot-5.png" alt="Moku apps tab">
+      <br><sub>🚀 <b>Apps</b> — Steam games and favourite programs</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🆕 What's new in 2.11.0
 
