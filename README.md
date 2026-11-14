@@ -8,14 +8,14 @@
 
 <br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.2-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.2 для Windows x64" height="44">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.3-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.3-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.3 для Windows x64" height="44">
 </a>
 
 <br><br>
 
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
-<img src="https://img.shields.io/badge/версия-2.12.2-22C55E?style=flat-square" alt="Version 2.12.2">
+<img src="https://img.shields.io/badge/версия-2.12.3-22C55E?style=flat-square" alt="Version 2.12.3">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
 <img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
 
@@ -72,11 +72,11 @@
 
 | | |
 |---|---|
-| 👀 **Живые глазки**<br>Следят за курсором, моргают, засыпают ночью, радуются, скучают и зевают. Если «погладить» их курсором — блаженно жмурятся с румянцем. | 🎵 **Музыка**<br>Название трека, обложка альбома и управление плеером. Moku определяет темп (BPM), и глазки танцуют в такт. |
+| 👀 **Живые глазки**<br>Следят за курсором, моргают, засыпают ночью, радуются, скучают и зевают. Если «погладить» их курсором — блаженно жмурятся с румянцем. | 🎵 **Музыка**<br>Название трека, обложка альбома и управление плеером. Волна и глазки реагируют на низкие, средние и высокие частоты текущего плеера; звук других приложений не берётся из общего микса Windows. |
 | 🫧 **Жидкий остров**<br>Живая волна во время воспроизведения музыки и «желейная» пружинная анимация раскрытия. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение и частота моргания. |
 | 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. Формат 12/24 ч, секунды, таймер и секундомер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут и кэш последнего значения. |
 | 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей и быстрые уведомления при копировании. |
-| 🚀 **Быстрый доступ справа на Главной**<br>Проводник, Блокнот, Калькулятор, Терминал и Диспетчер задач. Клик восстанавливает свёрнутое окно или переключает на открытое; запуск — когда приложение ещё не работает. Защита от быстрых повторных запусков. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
+| 🚀 **Быстрый доступ справа на Главной**<br>Проводник, Блокнот, Калькулятор, Терминал и Диспетчер задач. Клик возвращает свёрнутое окно или переключает на открытое. Поиск окна не зависит от наличия заголовка или превью; для скрытого системой Калькулятора предусмотрена активация через Windows. Быстрые повторные запуски блокируются. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
 | ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка**<br>Русский и English. Управление и выход — в интерфейсе острова, без значка в системном трее. |
 | 🏠 **Главная на выбор**<br>Один блок из настроек: буфер обмена или запущенные приложения. Окна сгруппированы по программам, точки показывают их количество. | 📄 **Файлы и скрипты**<br>Выбор нескольких EXE, ярлыков, PNG, DLL, BAT/CMD/PS1 и других файлов. Для поддерживаемых типов — обычный запуск или запуск от администратора через UAC. |
 | 📁 **Папки и плитки**<br>Создание и переименование папок, сохранение пустых папок, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в общий список. Свои подписи и иконки, размеры плиток 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Настоящие иконки игр, раскрывающийся список доступных игр прямо в «Приложениях». Ручное добавление по плюсу и сохранение состояния списка. |
@@ -87,13 +87,15 @@
 
 ### 📦 Установка
 
-1. Нажми кнопку **[⬇ Скачать Moku 2.12.2](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe)** (файл `Moku-Setup-2.12.2-x64.exe`, ~144 МБ).
+1. Нажми кнопку **[⬇ Скачать Moku 2.12.3](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.3-x64.exe)** (файл `Moku-Setup-2.12.3-x64.exe`, ~144 МБ).
 2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
 3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
 
 > [!NOTE]
 > Установщик не подписан цифровой подписью, поэтому Windows SmartScreen может показать предупреждение. Нажми **«Подробнее» → «Выполнить в любом случае»**.
 > Для погоды нужен интернет. Нужна 64-битная Windows 10 или 11.
+
+> Изолированный анализ частот требует Windows 11 или сборки Windows от 20348. На обычной Windows 10 (19041–19045), при неизвестном плеере или ошибке захвата общий звук Windows не подставляется: анализ частот недоступен. Название трека, обложка и управление воспроизведением работают независимо от анализа звука. Если музыка и звонок идут внутри одного браузера, отдельные вкладки не изолируются.
 
 ### 🎮 Управление
 
@@ -195,11 +197,11 @@ The gallery shows the overall style of the Moku interface.
 
 | | |
 |---|---|
-| 👀 **Living eyes**<br>Follow the cursor, blink, fall asleep at night, get happy, bored and yawn. Pet them with the cursor and they blush. | 🎵 **Music**<br>Track title, album art and playback controls. Moku detects the tempo (BPM), and the eyes dance to the beat. |
+| 👀 **Living eyes**<br>Follow the cursor, blink, fall asleep at night, get happy, bored and yawn. Pet them with the cursor and they blush. | 🎵 **Music**<br>Track title, album art and playback controls. The wave and eyes respond to the current player’s bass, mid and high frequencies rather than the combined Windows audio mix. |
 | 🫧 **Liquid island**<br>A living wave during music playback and jelly-like spring expansion. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot and cat. Size, spacing, color, glow and blink rate. |
 | 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24-hour format, seconds, timer and stopwatch. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes with a last-value cache. |
 | 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries and quick copy notifications. |
-| 🚀 **Quick access on the right of Home**<br>File Explorer, Notepad, Calculator, Terminal and Task Manager. Click to restore a minimized window or activate an existing one; launch an instance when the app is not running. Rapid repeated launches are blocked. | 🎮 **Game mode**<br>In fullscreen games, the island smoothly becomes transparent and click-through. |
+| 🚀 **Quick access on the right of Home**<br>File Explorer, Notepad, Calculator, Terminal and Task Manager. Click to restore a minimized window or activate an existing one. Window lookup does not require a title or preview; Calculator can also be reactivated through Windows when its window is hidden by the system. Rapid repeated launches are blocked. | 🎮 **Game mode**<br>In fullscreen games, the island smoothly becomes transparent and click-through. |
 | ✨ **Appearance styles**<br>Spring, Smooth or Drop, with separate expansion and notification speeds. | 🌐 **Two languages**<br>English and Russian. Controls and exit are in the island interface, without a system tray icon. |
 | 🏠 **Choose your Home view**<br>One block selected in Settings: clipboard or running apps. Windows are grouped by app, with dots showing their count. | 📄 **Files & scripts**<br>Select multiple EXE files, shortcuts, PNG, DLL, BAT/CMD/PS1 and other types. Supported types offer normal or administrator launch using UAC. |
 | 📁 **Folders & tiles**<br>Create and rename folders, keep empty folders, and drag folders and files. The cross inside a folder moves a file back to the main list. Custom labels and icons; 1×1, 2×1 and 2×2 tiles. | 🎮 **Steam games**<br>Real game icons and a collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
@@ -210,13 +212,15 @@ Quick access supports Windows Terminal, classic PowerShell consoles and Calculat
 
 ### 📦 Installation
 
-1. Click **[⬇ Download Moku 2.12.2](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe)** (`Moku-Setup-2.12.2-x64.exe`, ~144 MB).
+1. Click **[⬇ Download Moku 2.12.3](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.3-x64.exe)** (`Moku-Setup-2.12.3-x64.exe`, ~144 MB).
 2. Run the installer: License → Folder → Install → Done.
 3. Moku appears at the top of the screen. Click the island to expand it.
 
 > [!NOTE]
 > The installer is not code-signed, so Windows SmartScreen may show a warning. Click **More info → Run anyway**.
 > Weather requires an internet connection. Requires 64-bit Windows 10 or 11.
+
+> Isolated frequency analysis requires Windows 11 or Windows build 20348 or later. On standard Windows 10 (19041–19045), with an unidentified player or if capture fails, frequency analysis is unavailable; Moku never falls back to the combined Windows audio mix. Track information, album art and playback controls work independently of audio analysis. Music and calls within the same browser are not isolated by tab.
 
 ### 🎮 Controls
 
@@ -277,8 +281,8 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ---
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.2-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.2">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.3-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.3-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.3">
 </a>
 
 <sub>Сделано с 💙 · Made with 💙</sub>
