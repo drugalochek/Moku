@@ -8,14 +8,14 @@
 
 <br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.1-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.1-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.1 для Windows x64" height="44">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.2-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.2 для Windows x64" height="44">
 </a>
 
 <br><br>
 
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
-<img src="https://img.shields.io/badge/версия-2.12.1-22C55E?style=flat-square" alt="Version 2.12.1">
+<img src="https://img.shields.io/badge/версия-2.12.2-22C55E?style=flat-square" alt="Version 2.12.2">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
 <img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
 
@@ -37,7 +37,7 @@
 
 ### 📸 Скриншоты
 
-Галерея показывает общий стиль интерфейса. Новые функции версии 2.12.1 перечислены ниже.
+Галерея показывает общий стиль интерфейса. Новые функции версии 2.12.2 перечислены ниже.
 
 <p align="center">
   <img src="Screenshots/Moku-screenshot-3.png" alt="Раскрытый остров Moku — главная вкладка" width="100%">
@@ -68,8 +68,10 @@
   </tr>
 </table>
 
-### 🆕 Что нового в 2.12.1
+### 🆕 Что нового в 2.12.2
 
+> - 🚀 **Быстрый доступ справа на Главной** — кнопки Проводника, Блокнота, Калькулятора, Терминала и Диспетчера задач восстанавливают свёрнутое окно или переключают на открытое. Новая копия запускается только когда приложение ещё не работает.
+> - 🪟 **Учтены системные хосты окон** — распознаются Windows Terminal, классические консоли PowerShell и Калькулятор через ApplicationFrameHost. Рабочий стол не считается открытым окном Проводника.
 > - 🏠 **Главная без лишних кнопок** — в настройках выбирается один блок: буфер обмена или запущенные приложения. На самой Главной нет переключателя и кнопок «Свернуть всё / Развернуть всё».
 > - 🪟 **Запущенные приложения** — группировка окон, точки по их количеству, переключение на существующее окно и восстановление свёрнутого. Обычный клик не создаёт новые копии; быстрые повторы запуска блокируются.
 > - 🖼️ **Превью в стиле острова** — предпросмотр окон при наведении сохранён. Рамка и изображение используют общую настройку скругления; для свёрнутых или защищённых окон картинка может быть недоступна.
@@ -90,7 +92,7 @@
 | 🫧 **Жидкий остров**<br>Пока играет музыка, нижний край превращается в живую волну. Раскрытие — на «желейной» пружинной анимации. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение, частота моргания. |
 | 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. 12/24 ч, секунды, таймер и секундомер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут, кэш последнего значения. |
 | 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей, быстрые уведомления при копировании. |
-| 🚀 **Приложения и игры**<br>Плитки для быстрого запуска, настоящие иконки Steam-игр, папки, свои подписи и иконки, перестановка перетаскиванием. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
+| 🚀 **Приложения и игры**<br>Быстрый доступ справа на Главной восстанавливает открытые программы без копий. Плитки, иконки Steam-игр, папки, свои подписи и перестановка перетаскиванием. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
 | ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка**<br>Русский и English. Трея нет; управление и выход — в интерфейсе острова. |
 | 🪟 **Главная на выбор**<br>Буфер обмена или запущенные приложения — выбирается в настройках. Группы окон, точки и скруглённые превью. | 📄 **Файлы и скрипты**<br>EXE, ярлыки, PNG, DLL, BAT/CMD/PS1 и другие файлы. Для поддерживаемых типов — отдельный запуск от администратора через UAC. |
 | 📁 **Папки и плитки**<br>Создание, переименование, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в корень. Размеры плиток: 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Список доступных игр под стрелкой прямо в «Приложениях». Ручное добавление по плюсу, сохранение состояния списка. |
@@ -98,7 +100,7 @@
 
 ### 📦 Установка
 
-1. Нажми кнопку **[⬇ Скачать Moku 2.12.1](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.1-x64.exe)** (файл `Moku-Setup-2.12.1-x64.exe`, ~144 МБ).
+1. Нажми кнопку **[⬇ Скачать Moku 2.12.2](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe)** (файл `Moku-Setup-2.12.2-x64.exe`, ~144 МБ).
 2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
 3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
 
@@ -112,6 +114,7 @@
 |---|---|
 | Раскрыть / свернуть остров | Клик по острову или **Alt + Space** (сочетание меняется в настройках) |
 | Свернуть | **Esc** или клик мимо острова |
+| Восстановить программу из быстрого доступа | Нажми её кнопку справа на Главной: существующее окно активируется без новой копии |
 | Выбрать содержимое Главной | Настройки → Главная → «На Главной показывать» |
 | Изменить горячую клавишу | Настройки → Общие → Горячая клавиша → «Изменить» |
 | Создать папку | Приложения → «Создать папку»; затем перетащи в неё плитки |
@@ -170,7 +173,7 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ### 📸 Screenshots
 
-The gallery shows the overall interface style. New features in 2.12.1 are listed below.
+The gallery shows the overall interface style. New features in 2.12.2 are listed below.
 
 <p align="center">
   <img src="Screenshots/Moku-screenshot-3.png" alt="Expanded Moku island — Home tab" width="100%">
@@ -201,8 +204,10 @@ The gallery shows the overall interface style. New features in 2.12.1 are listed
   </tr>
 </table>
 
-### 🆕 What's new in 2.12.1
+### 🆕 What's new in 2.12.2
 
+> - 🚀 **Quick access on the right of Home** — File Explorer, Notepad, Calculator, Terminal and Task Manager buttons restore minimized windows or activate existing ones. A new instance is started only when the app is not already running.
+> - 🪟 **Window hosts are recognized** — Windows Terminal, classic PowerShell consoles and Calculator behind ApplicationFrameHost are supported. The desktop shell is not mistaken for an open File Explorer folder.
 > - 🏠 **A simpler Home tab** — choose one block in Settings: clipboard or running apps. Home has no view switch or Minimize all / Restore all buttons.
 > - 🪟 **Running apps** — grouped windows, window-count dots, activation of existing windows and restoration of minimized ones. Normal clicks do not create extra copies; rapid repeated launches are blocked.
 > - 🖼️ **Island-styled previews** — hover previews are retained. Both the frame and image follow the shared corner-radius setting; previews may be unavailable for minimized or protected windows.
@@ -223,7 +228,7 @@ Settings search, categories and per-section reset are retained. There is no syst
 | 🫧 **Liquid island**<br>While music plays, the lower edge turns into a living wave. Expanding uses a jelly spring animation. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot, cat. Size, spacing, color, glow and blink rate. |
 | 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24 h, seconds, timer and stopwatch. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes, with cache. |
 | 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries, quick toasts on copy. |
-| 🚀 **Apps & games**<br>Quick-launch tiles, real Steam game icons, folders, custom names and icons, drag & drop reordering. | 🎮 **Game mode**<br>In fullscreen games the island smoothly turns transparent and click-through. |
+| 🚀 **Apps & games**<br>Home quick access restores running apps without extra copies. Launch tiles, real Steam game icons, folders, custom names and drag & drop reordering. | 🎮 **Game mode**<br>In fullscreen games the island smoothly turns transparent and click-through. |
 | ✨ **Appear styles**<br>Spring, Smooth or Drop, with separate expand and notification speeds. | 🌐 **Two languages**<br>English and Russian. No system tray icon; controls and exit are in the island interface. |
 | 🪟 **Choose your Home view**<br>Clipboard or running apps, selected in Settings. Window groups, count dots and rounded hover previews. | 📄 **Files & scripts**<br>EXE, shortcuts, PNG, DLL, BAT/CMD/PS1 and other files. Supported types have a separate administrator launch command using UAC. |
 | 📁 **Folders & tiles**<br>Create, rename and drag folders and files. The cross inside a folder moves a file back to the main list. Tile sizes: 1×1, 2×1 and 2×2. | 🎮 **Steam games**<br>A collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
@@ -231,7 +236,7 @@ Settings search, categories and per-section reset are retained. There is no syst
 
 ### 📦 Installation
 
-1. Click **[⬇ Download Moku 2.12.1](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.1-x64.exe)** (`Moku-Setup-2.12.1-x64.exe`, ~144 MB).
+1. Click **[⬇ Download Moku 2.12.2](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe)** (`Moku-Setup-2.12.2-x64.exe`, ~144 MB).
 2. Run the installer: License → Folder → Install → Done.
 3. Moku appears at the top of the screen. Click the island to expand it.
 
@@ -245,6 +250,7 @@ Settings search, categories and per-section reset are retained. There is no syst
 |---|---|
 | Expand / collapse | Click the island or press **Alt + Space** (configurable in Settings) |
 | Collapse | **Esc** or click outside the island |
+| Restore an app from quick access | Click its button on the right of Home to activate its existing window without a new copy |
 | Choose Home content | Settings → Home → Show on Home |
 | Change the hotkey | Settings → General → Hotkey → Change |
 | Create a folder | Apps → Create folder; then drag tiles into it |
@@ -297,8 +303,8 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ---
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.1-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.1-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.1">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.2-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.2-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.2">
 </a>
 
 <sub>Сделано с 💙 · Made with 💙</sub>
