@@ -37,7 +37,7 @@
 
 ### 📸 Скриншоты
 
-Галерея показывает общий стиль интерфейса. Новые функции версии 2.12.2 перечислены ниже.
+В галерее — общий стиль интерфейса Moku.
 
 <p align="center">
   <img src="Screenshots/Moku-screenshot-3.png" alt="Раскрытый остров Moku — главная вкладка" width="100%">
@@ -68,35 +68,22 @@
   </tr>
 </table>
 
-### 🆕 Что нового в 2.12.2
-
-> - 🚀 **Быстрый доступ справа на Главной** — кнопки Проводника, Блокнота, Калькулятора, Терминала и Диспетчера задач восстанавливают свёрнутое окно или переключают на открытое. Новая копия запускается только когда приложение ещё не работает.
-> - 🪟 **Учтены системные хосты окон** — распознаются Windows Terminal, классические консоли PowerShell и Калькулятор через ApplicationFrameHost. Рабочий стол не считается открытым окном Проводника.
-> - 🏠 **Главная без лишних кнопок** — в настройках выбирается один блок: буфер обмена или запущенные приложения. На самой Главной нет переключателя и кнопок «Свернуть всё / Развернуть всё».
-> - 🪟 **Запущенные приложения** — группировка окон, точки по их количеству, переключение на существующее окно и восстановление свёрнутого. Обычный клик не создаёт новые копии; быстрые повторы запуска блокируются.
-> - 🖼️ **Превью в стиле острова** — предпросмотр окон при наведении сохранён. Рамка и изображение используют общую настройку скругления; для свёрнутых или защищённых окон картинка может быть недоступна.
-> - 📁 **Удобные папки** — кнопка «Создать папку», переименование и сохранение пустых папок. Приложения перетаскиваются внутрь, крестик внутри возвращает их в общий список. Сами папки тоже можно переставлять перетаскиванием.
-> - 📄 **Не только EXE** — добавление нескольких файлов: PNG, DLL, ярлыков, BAT/CMD/PS1 и других типов. Документы открываются своей программой Windows; DLL не запускается как отдельное приложение.
-> - 🛡️ **Обычный запуск или от администратора** — отдельные команды в меню ПКМ для поддерживаемых файлов. Повышение прав подтверждается системным запросом UAC.
-> - 🎮 **Steam под стрелкой** — список игр для добавления сворачивается прямо в «Приложениях». Игры добавляются вручную по плюсу, без отдельных настроек скрытых игр и автоматического добавления всего списка.
-> - 🎨 **Собственные меню ПКМ** — тёмные меню и подменю в цветах темы, с общей настройкой скругления. Убрана причина залипания подсветки быстрых действий справа на Главной.
-> - ⌨️ **Своя горячая клавиша** — по умолчанию **Alt + Space**, без пресетов. Можно записать сочетание или одну клавишу, например F8; Esc отменяет запись, занятая привязка не заменяет прежнюю.
-
-Поиск настроек, разделы и сброс выбранного раздела сохранены. Трея нет — выход доступен в интерфейсе Moku.
-
 ### ✨ Возможности
 
 | | |
 |---|---|
-| 👀 **Живые глазки**<br>Следят за курсором, моргают, засыпают ночью, радуются, скучают и зевают. Если «погладить» их курсором — блаженно жмурятся с румянцем. | 🎵 **Музыка**<br>Название трека, обложка альбома, управление плеером. Moku определяет темп (BPM), и глазки танцуют в такт. |
-| 🫧 **Жидкий остров**<br>Пока играет музыка, нижний край превращается в живую волну. Раскрытие — на «желейной» пружинной анимации. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение, частота моргания. |
-| 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. 12/24 ч, секунды, таймер и секундомер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут, кэш последнего значения. |
-| 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей, быстрые уведомления при копировании. |
-| 🚀 **Приложения и игры**<br>Быстрый доступ справа на Главной восстанавливает открытые программы без копий. Плитки, иконки Steam-игр, папки, свои подписи и перестановка перетаскиванием. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
-| ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка**<br>Русский и English. Трея нет; управление и выход — в интерфейсе острова. |
-| 🪟 **Главная на выбор**<br>Буфер обмена или запущенные приложения — выбирается в настройках. Группы окон, точки и скруглённые превью. | 📄 **Файлы и скрипты**<br>EXE, ярлыки, PNG, DLL, BAT/CMD/PS1 и другие файлы. Для поддерживаемых типов — отдельный запуск от администратора через UAC. |
-| 📁 **Папки и плитки**<br>Создание, переименование, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в корень. Размеры плиток: 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Список доступных игр под стрелкой прямо в «Приложениях». Ручное добавление по плюсу, сохранение состояния списка. |
-| 🎨 **Меню в стиле Moku**<br>Свои тёмные меню ПКМ и подменю, оттенок темы и общая настройка скругления. | ⌨️ **Своя горячая клавиша**<br>Alt + Space по умолчанию. Запись сочетания или одной клавиши, отмена по Esc и сохранение прежней привязки при конфликте. |
+| 👀 **Живые глазки**<br>Следят за курсором, моргают, засыпают ночью, радуются, скучают и зевают. Если «погладить» их курсором — блаженно жмурятся с румянцем. | 🎵 **Музыка**<br>Название трека, обложка альбома и управление плеером. Moku определяет темп (BPM), и глазки танцуют в такт. |
+| 🫧 **Жидкий остров**<br>Живая волна во время воспроизведения музыки и «желейная» пружинная анимация раскрытия. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение и частота моргания. |
+| 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. Формат 12/24 ч, секунды, таймер и секундомер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут и кэш последнего значения. |
+| 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей и быстрые уведомления при копировании. |
+| 🚀 **Быстрый доступ справа на Главной**<br>Проводник, Блокнот, Калькулятор, Терминал и Диспетчер задач. Клик восстанавливает свёрнутое окно или переключает на открытое; запуск — когда приложение ещё не работает. Защита от быстрых повторных запусков. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
+| ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка**<br>Русский и English. Управление и выход — в интерфейсе острова, без значка в системном трее. |
+| 🏠 **Главная на выбор**<br>Один блок из настроек: буфер обмена или запущенные приложения. Окна сгруппированы по программам, точки показывают их количество. | 📄 **Файлы и скрипты**<br>Выбор нескольких EXE, ярлыков, PNG, DLL, BAT/CMD/PS1 и других файлов. Для поддерживаемых типов — обычный запуск или запуск от администратора через UAC. |
+| 📁 **Папки и плитки**<br>Создание и переименование папок, сохранение пустых папок, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в общий список. Свои подписи и иконки, размеры плиток 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Настоящие иконки игр, раскрывающийся список доступных игр прямо в «Приложениях». Ручное добавление по плюсу и сохранение состояния списка. |
+| 🎨 **Меню в стиле Moku**<br>Тёмные меню ПКМ и подменю, оттенок темы и общая настройка скругления. | ⌨️ **Своя горячая клавиша**<br>Alt + Space по умолчанию. Запись сочетания или одной клавиши, например F8. Esc отменяет запись; при конфликте сохраняется прежняя привязка. |
+| 🖼️ **Превью окон**<br>Предпросмотр при наведении. Рамка и изображение используют общую настройку скругления; для свёрнутых или защищённых окон картинка может быть недоступна. | ⚙️ **Настройки по разделам**<br>Цвета, тема, положение, размеры, глаза, анимации и поведение острова. Поиск параметров и сброс выбранного раздела. |
+
+Быстрый доступ поддерживает Windows Terminal, классические консоли PowerShell и Калькулятор через системный хост. Документы открываются назначенной программой Windows; DLL не является самостоятельной программой. BAT/CMD запускаются из своей папки, а политика PowerShell не обходится. Удаление виртуальной папки не удаляет файлы с диска.
 
 ### 📦 Установка
 
@@ -173,7 +160,7 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ### 📸 Screenshots
 
-The gallery shows the overall interface style. New features in 2.12.2 are listed below.
+The gallery shows the overall style of the Moku interface.
 
 <p align="center">
   <img src="Screenshots/Moku-screenshot-3.png" alt="Expanded Moku island — Home tab" width="100%">
@@ -204,35 +191,22 @@ The gallery shows the overall interface style. New features in 2.12.2 are listed
   </tr>
 </table>
 
-### 🆕 What's new in 2.12.2
-
-> - 🚀 **Quick access on the right of Home** — File Explorer, Notepad, Calculator, Terminal and Task Manager buttons restore minimized windows or activate existing ones. A new instance is started only when the app is not already running.
-> - 🪟 **Window hosts are recognized** — Windows Terminal, classic PowerShell consoles and Calculator behind ApplicationFrameHost are supported. The desktop shell is not mistaken for an open File Explorer folder.
-> - 🏠 **A simpler Home tab** — choose one block in Settings: clipboard or running apps. Home has no view switch or Minimize all / Restore all buttons.
-> - 🪟 **Running apps** — grouped windows, window-count dots, activation of existing windows and restoration of minimized ones. Normal clicks do not create extra copies; rapid repeated launches are blocked.
-> - 🖼️ **Island-styled previews** — hover previews are retained. Both the frame and image follow the shared corner-radius setting; previews may be unavailable for minimized or protected windows.
-> - 📁 **Better folders** — a Create folder button, renaming and persistent empty folders. Drag apps into a folder; use the cross inside to move them back to the main list. Folders themselves can also be reordered by dragging.
-> - 📄 **More than EXE files** — add multiple files, including PNG, DLL, shortcuts, BAT/CMD/PS1 and other types. Documents open in their Windows-associated app; DLLs are not treated as standalone programs.
-> - 🛡️ **Normal or administrator launch** — separate right-click commands for supported file types. Elevation uses the standard Windows UAC confirmation.
-> - 🎮 **Collapsible Steam suggestions** — expand or hide available games directly in Apps. Add games manually with +, without separate hidden-game settings or automatic bulk adding.
-> - 🎨 **Custom context menus** — dark themed menus and submenus with shared rounding. The cause of sticky highlighting on Home quick-action buttons has been removed.
-> - ⌨️ **Your own hotkey** — **Alt + Space** by default, without presets. Record a combination or a single key such as F8; Esc cancels, and an occupied binding does not replace the previous one.
-
-Settings search, categories and per-section reset are retained. There is no system tray icon; use the exit control in Moku's interface.
-
 ### ✨ Features
 
 | | |
 |---|---|
-| 👀 **Living eyes**<br>Follow the cursor, blink, fall asleep at night, get happy, bored and yawn. "Pet" them with the cursor and they blush. | 🎵 **Music**<br>Track title, album art and playback controls. Moku detects the tempo (BPM) and the eyes dance to the beat. |
-| 🫧 **Liquid island**<br>While music plays, the lower edge turns into a living wave. Expanding uses a jelly spring animation. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot, cat. Size, spacing, color, glow and blink rate. |
-| 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24 h, seconds, timer and stopwatch. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes, with cache. |
-| 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries, quick toasts on copy. |
-| 🚀 **Apps & games**<br>Home quick access restores running apps without extra copies. Launch tiles, real Steam game icons, folders, custom names and drag & drop reordering. | 🎮 **Game mode**<br>In fullscreen games the island smoothly turns transparent and click-through. |
-| ✨ **Appear styles**<br>Spring, Smooth or Drop, with separate expand and notification speeds. | 🌐 **Two languages**<br>English and Russian. No system tray icon; controls and exit are in the island interface. |
-| 🪟 **Choose your Home view**<br>Clipboard or running apps, selected in Settings. Window groups, count dots and rounded hover previews. | 📄 **Files & scripts**<br>EXE, shortcuts, PNG, DLL, BAT/CMD/PS1 and other files. Supported types have a separate administrator launch command using UAC. |
-| 📁 **Folders & tiles**<br>Create, rename and drag folders and files. The cross inside a folder moves a file back to the main list. Tile sizes: 1×1, 2×1 and 2×2. | 🎮 **Steam games**<br>A collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
-| 🎨 **Moku-styled menus**<br>Custom dark context menus and submenus, theme tint and shared corner radius. | ⌨️ **Custom hotkey**<br>Alt + Space by default. Record a combination or single key, cancel with Esc and keep the previous binding if the new one is occupied. |
+| 👀 **Living eyes**<br>Follow the cursor, blink, fall asleep at night, get happy, bored and yawn. Pet them with the cursor and they blush. | 🎵 **Music**<br>Track title, album art and playback controls. Moku detects the tempo (BPM), and the eyes dance to the beat. |
+| 🫧 **Liquid island**<br>A living wave during music playback and jelly-like spring expansion. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot and cat. Size, spacing, color, glow and blink rate. |
+| 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24-hour format, seconds, timer and stopwatch. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes with a last-value cache. |
+| 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries and quick copy notifications. |
+| 🚀 **Quick access on the right of Home**<br>File Explorer, Notepad, Calculator, Terminal and Task Manager. Click to restore a minimized window or activate an existing one; launch an instance when the app is not running. Rapid repeated launches are blocked. | 🎮 **Game mode**<br>In fullscreen games, the island smoothly becomes transparent and click-through. |
+| ✨ **Appearance styles**<br>Spring, Smooth or Drop, with separate expansion and notification speeds. | 🌐 **Two languages**<br>English and Russian. Controls and exit are in the island interface, without a system tray icon. |
+| 🏠 **Choose your Home view**<br>One block selected in Settings: clipboard or running apps. Windows are grouped by app, with dots showing their count. | 📄 **Files & scripts**<br>Select multiple EXE files, shortcuts, PNG, DLL, BAT/CMD/PS1 and other types. Supported types offer normal or administrator launch using UAC. |
+| 📁 **Folders & tiles**<br>Create and rename folders, keep empty folders, and drag folders and files. The cross inside a folder moves a file back to the main list. Custom labels and icons; 1×1, 2×1 and 2×2 tiles. | 🎮 **Steam games**<br>Real game icons and a collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
+| 🎨 **Moku-styled menus**<br>Dark context menus and submenus, theme tint and shared corner radius. | ⌨️ **Custom hotkey**<br>Alt + Space by default. Record a combination or single key such as F8. Esc cancels; an occupied binding keeps the previous shortcut. |
+| 🖼️ **Window previews**<br>Hover previews with a frame and image that follow the shared corner-radius setting. Previews may be unavailable for minimized or protected windows. | ⚙️ **Categorized settings**<br>Colors, theme, position, size, eyes, animations and island behavior. Settings search and per-section reset. |
+
+Quick access supports Windows Terminal, classic PowerShell consoles and Calculator behind its system host. Documents open in their Windows-associated app; DLLs are not standalone programs. BAT/CMD files start in their own directory; PowerShell execution policy is respected. Removing a virtual folder does not delete files from disk.
 
 ### 📦 Installation
 
