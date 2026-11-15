@@ -8,14 +8,14 @@
 
 <br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.4-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.4-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.4 для Windows x64" height="44">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.5-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.5-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.5 для Windows x64" height="44">
 </a>
 
 <br><br>
 
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
-<img src="https://img.shields.io/badge/версия-2.12.4-22C55E?style=flat-square" alt="Version 2.12.4">
+<img src="https://img.shields.io/badge/версия-2.12.5-22C55E?style=flat-square" alt="Version 2.12.5">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
 <img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
 
@@ -87,7 +87,7 @@
 
 ### 📦 Установка
 
-1. Нажми кнопку **[⬇ Скачать Moku 2.12.4](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.4-x64.exe)** (файл `Moku-Setup-2.12.4-x64.exe`, ~144 МБ).
+1. Нажми кнопку **[⬇ Скачать Moku 2.12.5](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.5-x64.exe)** (файл `Moku-Setup-2.12.5-x64.exe`, ~144 МБ).
 2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
 3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
 
@@ -212,7 +212,7 @@ Quick access supports Windows Terminal, classic PowerShell consoles and Calculat
 
 ### 📦 Installation
 
-1. Click **[⬇ Download Moku 2.12.4](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.4-x64.exe)** (`Moku-Setup-2.12.4-x64.exe`, ~144 MB).
+1. Click **[⬇ Download Moku 2.12.5](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.5-x64.exe)** (`Moku-Setup-2.12.5-x64.exe`, ~144 MB).
 2. Run the installer: License → Folder → Install → Done.
 3. Moku appears at the top of the screen. Click the island to expand it.
 
@@ -281,8 +281,8 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ---
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.4-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.4-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.4">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.12.5-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.12.5-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.12.5">
 </a>
 
 <sub>Сделано с 💙 · Made with 💙</sub>
