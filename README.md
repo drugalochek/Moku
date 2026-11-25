@@ -4,18 +4,22 @@
 
 ### Живой «Dynamic Island» для Windows · A living Dynamic Island for Windows
 
-Живой остров для Windows: время, погода, музыка, скриншоты, буфер обмена, запущенные окна, файлы и папки, игры Steam.
+Живой остров для Windows: время, погода, музыка, скриншоты, буфер обмена, запущенные окна, файлы и папки, игры Steam и передача файлов с телефоном.
 
 <br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.13.3-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.13.3-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.13.3 для Windows x64" height="44">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.0-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.0 для Windows x64" height="44">
+</a>
+&nbsp;
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk">
+  <img src="https://img.shields.io/badge/⬇_MOKU_MOBILE_1.0.0-Android_10%2B-16A34A?style=for-the-badge&logo=android&logoColor=white" alt="Скачать Moku Mobile 1.0.0 для Android" height="44">
 </a>
 
 <br><br>
 
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
-<img src="https://img.shields.io/badge/версия-2.13.3-22C55E?style=flat-square" alt="Version 2.13.3">
+<img src="https://img.shields.io/badge/версия-2.14.0-22C55E?style=flat-square" alt="Version 2.14.0">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
 <img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
 
@@ -82,19 +86,22 @@
 | 📁 **Папки и плитки**<br>Создание и переименование папок, сохранение пустых папок, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в общий список. Свои подписи и иконки, размеры плиток 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Настоящие иконки игр, раскрывающийся список доступных игр прямо в «Приложениях». Ручное добавление по плюсу и сохранение состояния списка. |
 | 🎨 **Меню в стиле Moku**<br>Тёмные меню ПКМ и подменю, оттенок темы и общая настройка скругления. | ⌨️ **Своя горячая клавиша**<br>Alt + Space по умолчанию. Запись сочетания или одной клавиши, например F8. Esc отменяет запись; при конфликте сохраняется прежняя привязка. |
 | 🖥️ **Вкладка «Система»**<br>Настоящие переключатели: **Интернет** (вся сеть — кабель и Wi-Fi, с подтверждением администратора Windows; VPN и виртуальные адаптеры не трогаются), Bluetooth, VPN (Windows или Happ) и микрофон. Сон, перезагрузка и выключение с подтверждением; загрузка CPU, GPU и RAM. | 🙈 **Спрятать остров**<br>Зажми остров и смахни вверх — он станет тонкой полоской; смахни вниз или кликни — вернётся. |
+| 📱 **Вкладка «Телефон»**<br>Передача файлов между ПК и Android-телефоном по Wi-Fi, без облака: подключение по QR-коду или 6-значному коду, отправка перетаскиванием файлов во вкладку, история передач. Файлы с телефона сохраняются в «Загрузки\Moku» или в выбранную папку. Включается в «Настройки → Система → Передача файлов с телефоном». | 📲 **Moku Mobile для Android**<br>Приложение для телефона: отправка файлов, фото и видео на ПК, «Поделиться → Moku → на ПК» из любого приложения, приём файлов с ПК в фоне в «Загрузки/Moku». Android 10 и новее. |
 | 🖼️ **Превью окон**<br>Предпросмотр при наведении. Рамка и изображение используют общую настройку скругления; для свёрнутых или защищённых окон картинка может быть недоступна. | ⚙️ **Настройки по разделам**<br>Цвета, тема, положение, размеры, глаза, анимации и поведение острова. Поиск параметров и сброс выбранного раздела. |
 
 Быстрый доступ поддерживает Windows Terminal, классические консоли PowerShell и Калькулятор через системный хост. Документы открываются назначенной программой Windows; DLL не является самостоятельной программой. BAT/CMD запускаются из своей папки, а политика PowerShell не обходится. Удаление виртуальной папки не удаляет файлы с диска.
 
 ### 📦 Установка
 
-1. Нажми кнопку **[⬇ Скачать Moku 2.13.3](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.13.3-x64.exe)** (файл `Moku-Setup-2.13.3-x64.exe`, ~144 МБ).
+1. Нажми кнопку **[⬇ Скачать Moku 2.14.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe)** (файл `Moku-Setup-2.14.0-x64.exe`, ~144 МБ).
 2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
 3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
+4. Для телефона: скачай **[Moku Mobile 1.0.0 для Android](https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk)**, включи «Настройки → Система → Передача файлов с телефоном» и отсканируй QR-код во вкладке с иконкой телефона.
 
 > [!NOTE]
 > Установщик не подписан цифровой подписью, поэтому Windows SmartScreen может показать предупреждение. Нажми **«Подробнее» → «Выполнить в любом случае»**.
 > Для погоды нужен интернет. Нужна 64-битная Windows 10 или 11.
+> Передача с телефоном работает только в одной сети Wi-Fi; трафик не шифруется — не используй её в чужих открытых сетях.
 
 > На Windows 10 (19041–19045) волна использует уровень аудиосессии выбранного плеера — это реакция на громкость, а не частотный спектр. Изолированный анализ частот требует Windows 11 или сборки Windows от 20348; если захват недоступен, используется тот же режим уровня плеера. Общий звук Windows не подставляется, а при неизвестном источнике анализ остаётся без сигнала. Название трека, обложка и управление воспроизведением работают независимо от анализа звука. Изоляция выполняется по приложению: музыка и звонок в разных вкладках одного браузера могут смешиваться.
 
@@ -147,7 +154,7 @@
 
 <br>
 
-C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather API
+C# · .NET 8 · WPF · Kotlin · Jetpack Compose · Windows Media Session API · WASAPI · Open-Meteo Weather API
 
 </details>
 
@@ -208,19 +215,22 @@ The gallery shows the overall style of the Moku interface.
 | 📁 **Folders & tiles**<br>Create and rename folders, keep empty folders, and drag folders and files. The cross inside a folder moves a file back to the main list. Custom labels and icons; 1×1, 2×1 and 2×2 tiles. | 🎮 **Steam games**<br>Real game icons and a collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
 | 🎨 **Moku-styled menus**<br>Dark context menus and submenus, theme tint and shared corner radius. | ⌨️ **Custom hotkey**<br>Alt + Space by default. Record a combination or single key such as F8. Esc cancels; an occupied binding keeps the previous shortcut. |
 | 🖥️ **System tab**<br>Real switches: **Internet** (the whole network — cable and Wi-Fi, with Windows administrator approval; VPN and virtual adapters are left alone), Bluetooth, VPN (Windows or Happ) and microphone. Sleep, restart and shut down with confirmation; CPU, GPU and RAM load. | 🙈 **Hide the island**<br>Hold the island and swipe up to shrink it into a thin bar; swipe down or click to bring it back. |
+| 📱 **Phone tab**<br>File transfer between the PC and an Android phone over Wi-Fi, no cloud: pair with a QR code or a 6-digit code, send by dropping files onto the tab, transfer history. Files from the phone go to Downloads\Moku or a folder of your choice. Enable in Settings → System → File transfer with phone. | 📲 **Moku Mobile for Android**<br>Phone app: send files, photos and videos to the PC, Share → Moku → PC from any app, and receive files from the PC in the background into Downloads/Moku. Android 10 or newer. |
 | 🖼️ **Window previews**<br>Hover previews with a frame and image that follow the shared corner-radius setting. Previews may be unavailable for minimized or protected windows. | ⚙️ **Categorized settings**<br>Colors, theme, position, size, eyes, animations and island behavior. Settings search and per-section reset. |
 
 Quick access supports Windows Terminal, classic PowerShell consoles and Calculator behind its system host. Documents open in their Windows-associated app; DLLs are not standalone programs. BAT/CMD files start in their own directory; PowerShell execution policy is respected. Removing a virtual folder does not delete files from disk.
 
 ### 📦 Installation
 
-1. Click **[⬇ Download Moku 2.13.3](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.13.3-x64.exe)** (`Moku-Setup-2.13.3-x64.exe`, ~144 MB).
+1. Click **[⬇ Download Moku 2.14.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe)** (`Moku-Setup-2.14.0-x64.exe`, ~144 MB).
 2. Run the installer: License → Folder → Install → Done.
 3. Moku appears at the top of the screen. Click the island to expand it.
+4. For the phone: download **[Moku Mobile 1.0.0 for Android](https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk)**, enable Settings → System → File transfer with phone and scan the QR code on the phone-icon tab.
 
 > [!NOTE]
 > The installer is not code-signed, so Windows SmartScreen may show a warning. Click **More info → Run anyway**.
 > Weather requires an internet connection. Requires 64-bit Windows 10 or 11.
+> Phone transfer works only on the same Wi-Fi network; traffic is not encrypted — avoid untrusted public networks.
 
 > On Windows 10 (19041–19045), the wave uses the selected player’s audio-session level: it responds to volume, not a frequency spectrum. Isolated frequency analysis requires Windows 11 or Windows build 20348 or later; if capture is unavailable, the same player-level mode is used. Moku never falls back to the combined Windows audio mix, and an unidentified source produces no analysis signal. Track information, album art and playback controls work independently of audio analysis. Isolation is per application: music and calls in different tabs of the same browser may be mixed.
 
@@ -273,7 +283,7 @@ Quick access supports Windows Terminal, classic PowerShell consoles and Calculat
 
 <br>
 
-C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather API
+C# · .NET 8 · WPF · Kotlin · Jetpack Compose · Windows Media Session API · WASAPI · Open-Meteo Weather API
 
 </details>
 
@@ -283,8 +293,8 @@ C# · .NET 8 · WPF · Windows Media Session API · WASAPI · Open-Meteo Weather
 
 ---
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.13.3-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.13.3-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.13.3">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.0">
 </a>
 
 <sub>Сделано с 💙 · Made with 💙</sub>
