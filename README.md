@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.0-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.0 для Windows x64" height="44">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.1-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.1-Windows_10%2F11_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.1 для Windows x64" height="44">
 </a>
 &nbsp;
 <a href="https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk">
@@ -19,7 +19,7 @@
 <br><br>
 
 <a href="https://github.com/drugalochek/Moku/releases"><img src="https://img.shields.io/badge/Все_релизы-Releases-6B7280?style=flat-square&logo=github&logoColor=white" alt="All releases"></a>
-<img src="https://img.shields.io/badge/версия-2.14.0-22C55E?style=flat-square" alt="Version 2.14.0">
+<img src="https://img.shields.io/badge/версия-2.14.1-22C55E?style=flat-square" alt="Version 2.14.1">
 <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8">
 <img src="https://img.shields.io/badge/WPF-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="WPF C#">
 
@@ -80,7 +80,7 @@
 | 🫧 **Жидкий остров**<br>Живая волна во время воспроизведения музыки и «желейная» пружинная анимация раскрытия. | 🎭 **Кастомизация глаз**<br>7 форм: овалы, круглые, точки, аниме, «^ ^», робот, кошачьи. Размер, расстояние, цвет, свечение и частота моргания. |
 | 🕒 **Свёрнутый вид на выбор**<br>Время, дата, погода, батарея, загрузка CPU или RAM. Формат 12/24 ч, секунды и таймер. | 🌦️ **Погода**<br>Температура и значок через Open-Meteo, обновление примерно раз в 15 минут и кэш последнего значения. |
 | 📸 **Скриншоты с разметкой**<br>Область или весь экран. Перо, стрелка, рамка, маркер, цвета и толщина. | 📋 **История буфера обмена**<br>От 5 до 200 записей и быстрые уведомления при копировании. |
-| 🚀 **Быстрый доступ справа на Главной**<br>Проводник, Блокнот, Калькулятор, Терминал, Диспетчер задач и Корзина (показывает число файлов; ПКМ — очистить с подтверждением Windows). Клик возвращает свёрнутое окно или переключает на открытое. Поиск окна не зависит от наличия заголовка или превью; для скрытого системой Калькулятора предусмотрена активация через Windows. Быстрые повторные запуски блокируются. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
+| 🚀 **Быстрый доступ справа на Главной**<br>Проводник, Блокнот, Калькулятор, Терминал, Диспетчер задач, таймер и плитка «Настройки» — один клик открывает настройки острова. Клик возвращает свёрнутое окно или переключает на открытое. Поиск окна не зависит от наличия заголовка или превью; для скрытого системой Калькулятора предусмотрена активация через Windows. Быстрые повторные запуски блокируются. | 🎮 **Игровой режим**<br>В полноэкранных играх остров плавно становится прозрачным и не мешает кликам. |
 | ✨ **Стили появления**<br>«Пружина», «Плавно» или «Капля», отдельные скорости раскрытия и уведомлений. | 🌐 **Два языка**<br>Русский и English. Управление и выход — в интерфейсе острова, без значка в системном трее. |
 | 🏠 **Главная на выбор**<br>Один блок из настроек: буфер обмена или запущенные приложения. Окна сгруппированы по программам, точки показывают их количество. | 📄 **Файлы и скрипты**<br>Выбор нескольких EXE, ярлыков, PNG, DLL, BAT/CMD/PS1 и других файлов. Для поддерживаемых типов — обычный запуск или запуск от администратора через UAC. |
 | 📁 **Папки и плитки**<br>Создание и переименование папок, сохранение пустых папок, перетаскивание папок и файлов. Крестик внутри папки возвращает файл в общий список. Свои подписи и иконки, размеры плиток 1×1, 2×1 и 2×2. | 🎮 **Игры Steam**<br>Настоящие иконки игр, раскрывающийся список доступных игр прямо в «Приложениях». Ручное добавление по плюсу и сохранение состояния списка. |
@@ -93,7 +93,7 @@
 
 ### 📦 Установка
 
-1. Нажми кнопку **[⬇ Скачать Moku 2.14.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe)** (файл `Moku-Setup-2.14.0-x64.exe`, ~144 МБ).
+1. Нажми кнопку **[⬇ Скачать Moku 2.14.1](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.1-x64.exe)** (файл `Moku-Setup-2.14.1-x64.exe`, ~144 МБ).
 2. Запусти установщик и пройди шаги: Лицензия → Папка → Установка → Готово.
 3. Moku появится вверху экрана. Кликни по острову, чтобы раскрыть его.
 4. Для телефона: скачай **[Moku Mobile 1.0.0 для Android](https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk)**, включи «Настройки → Система → Передача файлов с телефоном» и отсканируй QR-код во вкладке с иконкой телефона.
@@ -209,7 +209,7 @@ The gallery shows the overall style of the Moku interface.
 | 🫧 **Liquid island**<br>A living wave during music playback and jelly-like spring expansion. | 🎭 **Eye customization**<br>7 shapes: ovals, round, dots, anime, "^ ^", robot and cat. Size, spacing, color, glow and blink rate. |
 | 🕒 **Custom collapsed view**<br>Time, date, weather, battery, CPU or RAM. 12/24-hour format, seconds and timer. | 🌦️ **Weather**<br>Temperature and icon via Open-Meteo, refreshed about every 15 minutes with a last-value cache. |
 | 📸 **Screenshots with markup**<br>Area or full screen. Pen, arrow, rectangle, highlighter, colors and thickness. | 📋 **Clipboard history**<br>5 to 200 entries and quick copy notifications. |
-| 🚀 **Quick access on the right of Home**<br>File Explorer, Notepad, Calculator, Terminal, Task Manager and Recycle Bin (shows the item count; right-click to empty it with Windows confirmation). Click to restore a minimized window or activate an existing one. Window lookup does not require a title or preview; Calculator can also be reactivated through Windows when its window is hidden by the system. Rapid repeated launches are blocked. | 🎮 **Game mode**<br>In fullscreen games, the island smoothly becomes transparent and click-through. |
+| 🚀 **Quick access on the right of Home**<br>File Explorer, Notepad, Calculator, Terminal, Task Manager, a timer and a Settings tile that opens the island settings in one click. Click to restore a minimized window or activate an existing one. Window lookup does not require a title or preview; Calculator can also be reactivated through Windows when its window is hidden by the system. Rapid repeated launches are blocked. | 🎮 **Game mode**<br>In fullscreen games, the island smoothly becomes transparent and click-through. |
 | ✨ **Appearance styles**<br>Spring, Smooth or Drop, with separate expansion and notification speeds. | 🌐 **Two languages**<br>English and Russian. Controls and exit are in the island interface, without a system tray icon. |
 | 🏠 **Choose your Home view**<br>One block selected in Settings: clipboard or running apps. Windows are grouped by app, with dots showing their count. | 📄 **Files & scripts**<br>Select multiple EXE files, shortcuts, PNG, DLL, BAT/CMD/PS1 and other types. Supported types offer normal or administrator launch using UAC. |
 | 📁 **Folders & tiles**<br>Create and rename folders, keep empty folders, and drag folders and files. The cross inside a folder moves a file back to the main list. Custom labels and icons; 1×1, 2×1 and 2×2 tiles. | 🎮 **Steam games**<br>Real game icons and a collapsible list of available games directly in Apps. Add games manually with +; the expanded state is saved. |
@@ -222,7 +222,7 @@ Quick access supports Windows Terminal, classic PowerShell consoles and Calculat
 
 ### 📦 Installation
 
-1. Click **[⬇ Download Moku 2.14.0](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe)** (`Moku-Setup-2.14.0-x64.exe`, ~144 MB).
+1. Click **[⬇ Download Moku 2.14.1](https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.1-x64.exe)** (`Moku-Setup-2.14.1-x64.exe`, ~144 MB).
 2. Run the installer: License → Folder → Install → Done.
 3. Moku appears at the top of the screen. Click the island to expand it.
 4. For the phone: download **[Moku Mobile 1.0.0 for Android](https://github.com/drugalochek/Moku/releases/download/Release/MokuMobile-1.0.0.apk)**, enable Settings → System → File transfer with phone and scan the QR code on the phone-icon tab.
@@ -293,8 +293,8 @@ C# · .NET 8 · WPF · Kotlin · Jetpack Compose · Windows Media Session API ·
 
 ---
 
-<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.0-x64.exe">
-  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.0-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.0">
+<a href="https://github.com/drugalochek/Moku/releases/download/Release/Moku-Setup-2.14.1-x64.exe">
+  <img src="https://img.shields.io/badge/⬇_СКАЧАТЬ_MOKU_2.14.1-Windows_x64-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Moku 2.14.1">
 </a>
 
 <sub>Сделано с 💙 · Made with 💙</sub>
